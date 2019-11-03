@@ -48,3 +48,16 @@
 
 > Removido os arquivos  ``` App.js, App.css, App.test.js e logo.svg ``` de dentro de ``` src ```.
 
+> Criado o diretório ``` assets``` dentro de ``` src ```.
+
+> Criado o diretório ``` imgs``` dentro de ``` assets ```.
+
+> Criado o diretório ``` home``` dentro de ``` components ```.
+
+> Criado o arquivo chamado de ``` Home.jsx ``` dentro de ``` home ```.
+
+> Criado o diretório ``` user``` dentro de ``` components ```.
+
+> Criado o arquivo chamado de ``` UserCrud.jsx ``` dentro de ``` user ```.
+
+> Criado o arquivo chamado de ``` Routes.jsx ``` dentro de ``` main ```.

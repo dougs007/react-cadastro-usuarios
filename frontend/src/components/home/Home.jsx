@@ -5,11 +5,10 @@ export default props =>
   <Main
     icon="home"
     title="Início"
-    subtitle="Segundo Projeto do capítulo de React.">
+    subtitle="Projeto ReactJS.">
     <div className="display-4">Bem vindo!</div>
     <hr />
     <p className="mb-0">
-      Sistema para exemplificar a construção
-      de um cadastro desenvolvido em React!
+      Sistema para gerenciamemto de usuários desenvolvido em ReactJS com Json-Server!
     </p>
   </Main>
